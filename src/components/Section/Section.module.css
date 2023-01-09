@@ -1,0 +1,11 @@
+.section {
+  outline-style: dashed;
+}
+
+.section h2 {
+  font-size: 32px;
+}
+
+.section p {
+  font-size: 22px;
+}
